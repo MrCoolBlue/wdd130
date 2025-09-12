@@ -51,4 +51,7 @@ ul{
 }
 footer{
     font-size: .9rem;
+    text-align: center;
+    background-color: #333;
+    color: white;
 }
